@@ -1,0 +1,2 @@
+schack, schack, 5, 2, 3
+plocke-pinn, sällskapsspel, 3, 2, 1

@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\Simple Gamestatistics\bin\Debug\net8.0\Simple Gamestatistics.exe
+D:\Programmering\Programmering\Simple Gamestatistics\bin\Debug\net8.0\Simple Gamestatistics.deps.json
+D:\Programmering\Programmering\Simple Gamestatistics\bin\Debug\net8.0\Simple Gamestatistics.runtimeconfig.json
+D:\Programmering\Programmering\Simple Gamestatistics\bin\Debug\net8.0\Simple Gamestatistics.dll
+D:\Programmering\Programmering\Simple Gamestatistics\bin\Debug\net8.0\Simple Gamestatistics.pdb
+D:\Programmering\Programmering\Simple Gamestatistics\obj\Debug\net8.0\Simple Gamestatistics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\Simple Gamestatistics\obj\Debug\net8.0\Simple Gamestatistics.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\Simple Gamestatistics\obj\Debug\net8.0\Simple Gamestatistics.AssemblyInfo.cs
+D:\Programmering\Programmering\Simple Gamestatistics\obj\Debug\net8.0\Simple Gamestatistics.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\Simple Gamestatistics\obj\Debug\net8.0\Simple Gamestatistics.dll
+D:\Programmering\Programmering\Simple Gamestatistics\obj\Debug\net8.0\refint\Simple Gamestatistics.dll
+D:\Programmering\Programmering\Simple Gamestatistics\obj\Debug\net8.0\Simple Gamestatistics.pdb
+D:\Programmering\Programmering\Simple Gamestatistics\obj\Debug\net8.0\Simple Gamestatistics.genruntimeconfig.cache
+D:\Programmering\Programmering\Simple Gamestatistics\obj\Debug\net8.0\ref\Simple Gamestatistics.dll
